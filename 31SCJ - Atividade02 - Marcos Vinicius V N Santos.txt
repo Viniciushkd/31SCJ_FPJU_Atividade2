@@ -1,0 +1,29 @@
+Turma: 31SCJ 
+Diciplica: FUNDAMENTOS DA PLATAFORMA JAVA E UML 
+Professor: MICHEL PEREIRA FERNANDES
+Aluno: MARCOS VINICIUS VICENTE NASCIMENTO SANTOS
+RM: 330870
+
+\*
+* Exercícios disponibilizados via GITHUB
+* LINK: https://github.com/Viniciushkd/31SCJ_FPJU_Atividade2/tree/master/31SCJ_FPJU_Atividade2
+*\
+
+Atividade Extra 2
+------------------
+
+I) https://github.com/Viniciushkd/31SCJ_FPJU_Atividade2/tree/master/31SCJ_FPJU_Atividade2/bin/br/com/fiap/exercicio01
+
+-----------------
+
+II) https://github.com/Viniciushkd/31SCJ_FPJU_Atividade2/tree/master/31SCJ_FPJU_Atividade2/bin/br/com/fiap/exercicio02
+
+-----------------
+
+III) https://github.com/Viniciushkd/31SCJ_FPJU_Atividade2/tree/master/31SCJ_FPJU_Atividade2/bin/br/com/fiap/exercicio03
+
+-----------------
+
+IV) https://github.com/Viniciushkd/31SCJ_FPJU_Atividade2/tree/master/31SCJ_FPJU_Atividade2/bin/br/com/fiap/exercicio04
+
+-----------------
