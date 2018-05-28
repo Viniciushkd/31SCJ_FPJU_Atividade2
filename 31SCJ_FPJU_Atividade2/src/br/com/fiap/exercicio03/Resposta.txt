@@ -1,0 +1,3 @@
+a. true; Justificativa: Pois a classo ChowChow esta extendendo a classe cachorro, assim reconhecendo a instancia de Cachorro.
+
+b. false; Justificativa: A classe Cachorro não é extendida para a classe ChowChow, assim não reconhecendo a instancia.
